@@ -6,7 +6,7 @@ Welcome to my PowerBI Projects repository! This repository contains a collection
 
 
 ## 1. Crime & Socioeconomic Factors in Saskatchewan: A Data-Driven Analysis
-This data-driven dashboard provides valuable insights into the socioeconomic factors influencing crime in Saskatchewan’s communities. The strong correlation between unemployment, low income, and education gaps with high crime rates suggests that economic and educational improvements could lead to long-term crime reduction in North Battleford, Meadow Lake, and Prince Albert.
+This data-driven dashboard provides valuable insights into the socioeconomic factors influencing crime in five Saskatchewan communities. The strong correlation between unemployment, low income, and education gaps with high crime rates suggests that economic and educational improvements could lead to long-term crime reduction in North Battleford, Meadow Lake, and Prince Albert.
 
 **Features:**
 
@@ -24,8 +24,6 @@ This data-driven dashboard provides valuable insights into the socioeconomic fac
 **Tools Used:**
 
 •	PowerBI for dashboard creation
-
-•	DAX for complex calculations
 
 •	Power Query to manipulate data sources
 
